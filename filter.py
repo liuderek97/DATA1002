@@ -15,6 +15,4 @@ street_names = ["Bridge", "Elizabeth", "Park", "Kent"]
 df_filter = df[(df['LGA'] == lga) & (df['Licence type'].isin(license_type)) & (df["Trading Status"] == trading_status) 
 & (df["Status"] == license_status) & (df['Business type'] == business_type) & (df["To 12am"] == "Yes") & (df["To 3am"] == "Yes") & (df["Suburb"] == "SYDNEY")]
 
-print(len(df_filter))
-
 df_filter.to_csv("filtered_premises_list.csv")
