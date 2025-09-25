@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 df = pd.read_csv("premises-list-as-at-7-jun-2024.csv")
 
 trading_status = "Trading" 
