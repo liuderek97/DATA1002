@@ -1,0 +1,312 @@
+Year,LGA,Count
+2022,Albury,12
+2022,Armidale Regional,6
+2022,Ballina,4
+2022,Bathurst Regional,11
+2022,Bayside,16
+2022,Bega Valley,3
+2022,Bellingen,1
+2022,Blacktown,20
+2022,Bland,7
+2022,Blayney,1
+2022,Blue Mountains,11
+2022,Bogan,1
+2022,Broken Hill,4
+2022,Burwood,5
+2022,Byron,1
+2022,Cabonne,1
+2022,Camden,2
+2022,Campbelltown,8
+2022,Canada Bay,3
+2022,Canterbury-Bankstown,25
+2022,Carrathool,2
+2022,Central Coast,13
+2022,Central Darling,1
+2022,Cessnock,11
+2022,Clarence Valley,2
+2022,Coffs Harbour,7
+2022,Coolamon,2
+2022,Cumberland,15
+2022,Dubbo Regional,12
+2022,Dungog,1
+2022,Edward River,1
+2022,Eurobodalla,1
+2022,Fairfield,16
+2022,Federation,1
+2022,Forbes,4
+2022,Georges River,11
+2022,Gilgandra,2
+2022,Goulburn Mulwaree,3
+2022,Greater Hume Shire,3
+2022,Griffith,2
+2022,Gundagai,1
+2022,Gunnedah,2
+2022,Gwydir,2
+2022,Hawkesbury,8
+2022,Hilltops,2
+2022,Hornsby,3
+2022,Inner West,29
+2022,Inverell,4
+2022,Kiama,1
+2022,Lake Macquarie,11
+2022,Lane Cove,1
+2022,Lismore,6
+2022,Lithgow,9
+2022,Liverpool,10
+2022,Liverpool Plains,1
+2022,Maitland,6
+2022,Mid-Coast,7
+2022,Mid-Western Regional,5
+2022,Moree Plains,3
+2022,Murray River,2
+2022,Murrumbidgee,4
+2022,Muswellbrook,4
+2022,Narrabri,4
+2022,Narrandera,1
+2022,Narromine,1
+2022,Newcastle,32
+2022,North Sydney,9
+2022,Northern Beaches,10
+2022,Oberon,1
+2022,Orange,5
+2022,Parkes,7
+2022,Parramatta,23
+2022,Penrith,16
+2022,Port Macquarie-Hastings,1
+2022,Port Stephens,3
+2022,Queanbeyan-Palerang Regional,7
+2022,Randwick,13
+2022,Ryde,6
+2022,Shoalhaven,3
+2022,Singleton,3
+2022,Snowy Monaro Regional,10
+2022,Snowy Valleys,6
+2022,Strathfield,3
+2022,Sutherland Shire,7
+2022,Sydney,172
+2022,Tamworth Regional,9
+2022,Temora,2
+2022,Tenterfield,1
+2022,The Hills Shire,8
+2022,Tweed,5
+2022,Unincorporated NSW,2
+2022,Upper Lachlan Shire,2
+2022,Wagga Wagga,11
+2022,Walcha,2
+2022,Walgett,2
+2022,Warren,2
+2022,Waverley,5
+2022,Wentworth,3
+2022,Willoughby,3
+2022,Wingecarribee,3
+2022,Wollondilly,1
+2022,Wollongong,16
+2022,Woollahra,4
+2022,Yass Valley,4
+2023,Albury,13
+2023,Armidale Regional,5
+2023,Ballina,4
+2023,Bathurst Regional,11
+2023,Bayside,15
+2023,Bega Valley,3
+2023,Bellingen,1
+2023,Blacktown,20
+2023,Bland,6
+2023,Blayney,1
+2023,Blue Mountains,11
+2023,Bogan,1
+2023,Broken Hill,4
+2023,Burwood,5
+2023,Byron,1
+2023,Cabonne,1
+2023,Camden,2
+2023,Campbelltown,8
+2023,Canada Bay,3
+2023,Canterbury-Bankstown,25
+2023,Carrathool,2
+2023,Central Coast,13
+2023,Central Darling,1
+2023,Cessnock,11
+2023,Clarence Valley,2
+2023,Coffs Harbour,7
+2023,Coolamon,2
+2023,Cumberland,15
+2023,Dubbo Regional,12
+2023,Dungog,1
+2023,Edward River,1
+2023,Eurobodalla,1
+2023,Fairfield,16
+2023,Federation,1
+2023,Forbes,4
+2023,Georges River,11
+2023,Gilgandra,2
+2023,Goulburn Mulwaree,3
+2023,Greater Hume Shire,3
+2023,Griffith,2
+2023,Gundagai,1
+2023,Gunnedah,2
+2023,Gwydir,2
+2023,Hawkesbury,8
+2023,Hilltops,2
+2023,Hornsby,3
+2023,Inner West,27
+2023,Inverell,4
+2023,Kiama,1
+2023,Lake Macquarie,11
+2023,Lane Cove,1
+2023,Lismore,6
+2023,Lithgow,9
+2023,Liverpool,10
+2023,Liverpool Plains,1
+2023,Maitland,6
+2023,Mid-Coast,7
+2023,Mid-Western Regional,5
+2023,Moree Plains,3
+2023,Murray River,2
+2023,Murrumbidgee,4
+2023,Muswellbrook,4
+2023,Narrabri,4
+2023,Narrandera,1
+2023,Narromine,1
+2023,Newcastle,31
+2023,North Sydney,9
+2023,Northern Beaches,10
+2023,Oberon,1
+2023,Orange,5
+2023,Parkes,6
+2023,Parramatta,23
+2023,Penrith,16
+2023,Port Macquarie-Hastings,1
+2023,Port Stephens,3
+2023,Queanbeyan-Palerang Regional,7
+2023,Randwick,13
+2023,Ryde,6
+2023,Shoalhaven,3
+2023,Singleton,3
+2023,Snowy Monaro Regional,9
+2023,Snowy Valleys,6
+2023,Strathfield,3
+2023,Sutherland Shire,7
+2023,Sydney,170
+2023,Tamworth Regional,9
+2023,Temora,2
+2023,Tenterfield,2
+2023,The Hills Shire,8
+2023,Tweed,5
+2023,Unincorporated NSW,2
+2023,Upper Lachlan Shire,2
+2023,Wagga Wagga,11
+2023,Walcha,2
+2023,Walgett,2
+2023,Warren,2
+2023,Waverley,4
+2023,Wentworth,3
+2023,Willoughby,3
+2023,Wingecarribee,3
+2023,Wollondilly,1
+2023,Wollongong,16
+2023,Woollahra,4
+2023,Yass Valley,4
+2024,Albury,12
+2024,Armidale Regional,5
+2024,Ballina,4
+2024,Bathurst Regional,11
+2024,Bayside,16
+2024,Bega Valley,3
+2024,Bellingen,1
+2024,Blacktown,20
+2024,Bland,6
+2024,Blayney,1
+2024,Blue Mountains,11
+2024,Bogan,1
+2024,Broken Hill,4
+2024,Burwood,5
+2024,Byron,1
+2024,Cabonne,1
+2024,Camden,2
+2024,Campbelltown,8
+2024,Canada Bay,3
+2024,Canterbury-Bankstown,25
+2024,Carrathool,2
+2024,Central Coast,13
+2024,Central Darling,1
+2024,Cessnock,11
+2024,Clarence Valley,2
+2024,Coffs Harbour,7
+2024,Coolamon,2
+2024,Cootamundra-Gundagai Regional,1
+2024,Cumberland,15
+2024,Dubbo Regional,12
+2024,Dungog,1
+2024,Edward River,1
+2024,Eurobodalla,1
+2024,Fairfield,16
+2024,Federation,1
+2024,Forbes,4
+2024,Georges River,11
+2024,Gilgandra,2
+2024,Goulburn Mulwaree,3
+2024,Greater Hume,3
+2024,Griffith,2
+2024,Gunnedah,2
+2024,Gwydir,2
+2024,Hawkesbury,8
+2024,Hilltops,2
+2024,Hornsby,3
+2024,Inner West,28
+2024,Inverell,4
+2024,Kiama,1
+2024,Lake Macquarie,11
+2024,Lane Cove,1
+2024,Lismore,5
+2024,Lithgow,9
+2024,Liverpool,10
+2024,Maitland,5
+2024,Mid-Coast,6
+2024,Mid-Western Regional,5
+2024,Moree Plains,3
+2024,Murray River,2
+2024,Murrumbidgee,4
+2024,Muswellbrook,4
+2024,Narrabri,4
+2024,Narrandera,1
+2024,Narromine,1
+2024,Newcastle,31
+2024,North Sydney,9
+2024,Northern Beaches,10
+2024,Oberon,1
+2024,Orange,4
+2024,Parkes,6
+2024,Parramatta,24
+2024,Penrith,16
+2024,Port Macquarie-Hastings,1
+2024,Port Stephens,3
+2024,Queanbeyan-Palerang Regional,7
+2024,Randwick,13
+2024,Ryde,6
+2024,Shoalhaven,3
+2024,Singleton,3
+2024,Snowy Monaro Regional,9
+2024,Snowy Valleys,6
+2024,Strathfield,3
+2024,Sutherland Shire,7
+2024,Sydney,171
+2024,Tamworth Regional,9
+2024,Temora,2
+2024,Tenterfield,2
+2024,The Hills Shire,7
+2024,Tweed,5
+2024,Unincorporated NSW,2
+2024,Upper Lachlan,2
+2024,Wagga Wagga,11
+2024,Walcha,2
+2024,Walgett,2
+2024,Warren,2
+2024,Waverley,3
+2024,Wentworth,3
+2024,Willoughby,3
+2024,Wingecarribee,3
+2024,Wollondilly,1
+2024,Wollongong,16
+2024,Woollahra,4
+2024,Yass Valley,4
